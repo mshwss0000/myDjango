@@ -11,7 +11,7 @@ __pycache__/
 6
 flask/
 11_env/
-db.sqlite3
+*.sqlite3
 7
 # C extensions
 8
